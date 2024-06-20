@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phillip Bowers
 - 👀 I’m interested in all things tech and science as well as automobiles
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on many projects in the future
 - 📫 Reach me at @ CrazyOldWizardEyes@icloud.com
 <!---
